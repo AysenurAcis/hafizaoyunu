@@ -1,0 +1,17 @@
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.csproj.AssemblyReference.cache
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.Form1.resources
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.csproj.GenerateResource.cache
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.AssemblyInfoInputs.cache
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.AssemblyInfo.cs
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.csproj.CoreCompileInputs.cache
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\bin\Debug\net6.0-windows\hafizaoyunu.exe
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\bin\Debug\net6.0-windows\hafizaoyunu.deps.json
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\bin\Debug\net6.0-windows\hafizaoyunu.runtimeconfig.json
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\bin\Debug\net6.0-windows\hafizaoyunu.dll
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\bin\Debug\net6.0-windows\hafizaoyunu.pdb
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.dll
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\refint\hafizaoyunu.dll
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.pdb
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\hafizaoyunu.genruntimeconfig.cache
+C:\Users\aysen\OneDrive\Masaüstü\HafızaOyunu\hafizaoyunu\hafizaoyunu\obj\Debug\net6.0-windows\ref\hafizaoyunu.dll
